@@ -1,0 +1,122 @@
+[
+  {
+    "craft": "Madhubani Painting",
+    "state": "Bihar",
+    "materials": ["Bamboo", "Paper", "Canvas", "Natural Colors"],
+    "categories": ["Tray", "Wall Art", "Home Decor"],
+    "target_markets": ["Home Decor", "Corporate Gifts", "Tourism Souvenirs"],
+    "description": "Traditional folk art from Bihar featuring intricate hand-painted motifs inspired by mythology, nature, and daily life."
+  },
+  {
+    "craft": "Warli Art",
+    "state": "Maharashtra",
+    "materials": ["Canvas", "Paper", "Natural Paint"],
+    "categories": ["Wall Art", "Decor"],
+    "target_markets": ["Home Decor", "Corporate Gifts"],
+    "description": "Tribal art known for geometric human and animal figures representing village life."
+  },
+  {
+    "craft": "Blue Pottery",
+    "state": "Rajasthan",
+    "materials": ["Ceramic", "Quartz"],
+    "categories": ["Bowls", "Vases", "Tiles"],
+    "target_markets": ["Luxury Decor", "Tourism", "Retail"],
+    "description": "Distinctive blue glazed pottery decorated with floral and geometric patterns."
+  },
+  {
+    "craft": "Dhokra Art",
+    "state": "West Bengal",
+    "materials": ["Brass", "Metal"],
+    "categories": ["Figurines", "Decor", "Artifacts"],
+    "target_markets": ["Collectors", "Luxury Decor", "Export"],
+    "description": "Ancient lost-wax metal casting technique used to create handcrafted decorative pieces."
+  },
+  {
+    "craft": "Channapatna Toys",
+    "state": "Karnataka",
+    "materials": ["Wood", "Natural Dyes"],
+    "categories": ["Toys", "Gift Items"],
+    "target_markets": ["Children", "Corporate Gifts", "Tourism"],
+    "description": "Colorful handcrafted wooden toys finished with eco-friendly natural dyes."
+  },
+  {
+    "craft": "Bidriware",
+    "state": "Karnataka",
+    "materials": ["Zinc Alloy", "Silver"],
+    "categories": ["Artifacts", "Boxes", "Decor"],
+    "target_markets": ["Luxury Gifts", "Collectors", "Export"],
+    "description": "Metal handicraft famous for silver inlay work on a blackened alloy surface."
+  },
+  {
+    "craft": "Pashmina",
+    "state": "Jammu and Kashmir",
+    "materials": ["Pashmina Wool"],
+    "categories": ["Shawls", "Fashion"],
+    "target_markets": ["Luxury Fashion", "Retail", "Export"],
+    "description": "Premium handcrafted wool products known for softness, warmth, and exclusivity."
+  },
+  {
+    "craft": "Kalamkari",
+    "state": "Andhra Pradesh",
+    "materials": ["Cotton", "Natural Dyes"],
+    "categories": ["Textiles", "Wall Hangings", "Fashion"],
+    "target_markets": ["Fashion", "Home Decor", "Export"],
+    "description": "Hand-painted and block-printed textile art featuring mythological and floral themes."
+  },
+  {
+    "craft": "Phulkari",
+    "state": "Punjab",
+    "materials": ["Cotton", "Silk Thread"],
+    "categories": ["Dupattas", "Scarves", "Textiles"],
+    "target_markets": ["Wedding Gifts", "Fashion", "Retail"],
+    "description": "Traditional embroidery craft characterized by colorful floral patterns."
+  },
+  {
+    "craft": "Bamboo Craft",
+    "state": "Assam",
+    "materials": ["Bamboo"],
+    "categories": ["Baskets", "Trays", "Furniture"],
+    "target_markets": ["Sustainable Living", "Corporate Gifts", "Retail"],
+    "description": "Eco-friendly handcrafted products made from locally sourced bamboo."
+  },
+  {
+    "craft": "Terracotta",
+    "state": "West Bengal",
+    "materials": ["Clay"],
+    "categories": ["Pots", "Decor", "Sculptures"],
+    "target_markets": ["Home Decor", "Tourism", "Retail"],
+    "description": "Handcrafted clay products fired at high temperatures for durability and artistic appeal."
+  },
+  {
+    "craft": "Kutch Embroidery",
+    "state": "Gujarat",
+    "materials": ["Cotton", "Silk Thread", "Mirrors"],
+    "categories": ["Textiles", "Bags", "Fashion"],
+    "target_markets": ["Fashion", "Export", "Retail"],
+    "description": "Colorful embroidery craft featuring mirror work and intricate stitching."
+  },
+  {
+    "craft": "Sandalwood Carving",
+    "state": "Karnataka",
+    "materials": ["Sandalwood"],
+    "categories": ["Decor", "Artifacts", "Religious Items"],
+    "target_markets": ["Luxury Gifts", "Collectors", "Export"],
+    "description": "Detailed wood carving art known for fragrance and craftsmanship."
+  },
+  {
+    "craft": "Dokra Jewelry",
+    "state": "Odisha",
+    "materials": ["Brass"],
+    "categories": ["Jewelry", "Accessories"],
+    "target_markets": ["Fashion", "Handmade Jewelry", "Export"],
+    "description": "Traditional brass jewelry crafted using the lost-wax casting technique."
+  },
+  {
+    "craft": "Pattachitra",
+    "state": "Odisha",
+    "materials": ["Cloth", "Natural Colors"],
+    "categories": ["Paintings", "Wall Art"],
+    "target_markets": ["Home Decor", "Collectors", "Tourism"],
+    "description": "Traditional scroll painting depicting mythological stories and cultural themes."
+  }
+]
