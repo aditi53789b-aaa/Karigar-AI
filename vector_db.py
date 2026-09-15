@@ -18,7 +18,7 @@ load_dotenv()
 # Load Crafts Dataset
 # =========================
 
-with open("data/crafts.json", "r", encoding="utf-8") as f:
+with open("crafts.json", "r", encoding="utf-8") as f:
     crafts = json.load(f)
 
 # =========================
